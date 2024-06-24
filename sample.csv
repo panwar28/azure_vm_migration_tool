@@ -1,0 +1,5 @@
+#Source VM Name, Source RG, OS Type, Target RG, Target Zone, Target VM Size 
+linzm01, zone_migration01, linux, zone_migration02, 2, Standard_B2as_v2
+winzvm01, zone_migration01, windows, zone_migration02, 2, Standard_B2as_v2
+linzm02, zone_migration01, linux, zone_migration02, 2, Standard_B2as_v2
+linzm03, zone_migration01, linux, zone_migration02, 2, Standard_B2as_v2
