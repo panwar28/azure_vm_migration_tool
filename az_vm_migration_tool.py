@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Author: Umesh Panwar
 # Date: June 20, 2024
-# Description: This script will take snapshot of a data disk in Azure in one zone and copy it to another zone. 
+# Description: This script will help you migrate VMs from one zone to another. It will take the VM details from a csv file and create snapshots, disks and VMs in the zone of your choice. 
 
 # import the required libraries
 
